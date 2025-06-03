@@ -9,7 +9,7 @@ if os.path.exists("local.env"):
 API_ID = int(getenv("API_ID", "29650844")) #optional
 API_HASH = getenv("API_HASH", "6154d581d370cbdadd240292c456d7a2") #optional
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1281282633").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1281282633 8187361583 7888151947 7948585276").split()))
 OWNER_ID = int(getenv("OWNER_ID", "1281282633"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://iamnobita1:nobitamusic1@cluster0.k08op.mongodb.net/?retryWrites=true&w=majority")
 BOT_TOKEN = getenv("BOT_TOKEN", "2132260441:AAEGAiQWe8lq-O6IvoWoY-4BROsoqxiPc-E")
