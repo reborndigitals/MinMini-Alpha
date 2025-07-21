@@ -9,3 +9,6 @@ COPY . /app/
 WORKDIR /app/
 RUN pip3 install -U -r requirements.txt
 CMD ["bash","start.sh"]
+
+#render only
+RUN python keep_alive.py
