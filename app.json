@@ -1,14 +1,14 @@
 {
-    "name": "𝗔𝗟𝗣𝗛𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "name": "minialpha",
     "logo": "https://telegra.ph/file/1a1dae69a11e98c47c34e.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/reborndigitals/ALPHA_USERBOT",
+    "repository": "https://github.com/rajs2695/MinMini-Alpha",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
             "description": "fill with the Pyrogram v2 session string",
-            "required": true,
+            "required": true
             "value": "BQHEb5wAdTujpFz8ZlEEOtmho5Fl2rI58BbimhjFXZdFfBGg3le1JX7vBy5H7afdoHWMUIhG_1A1b9gz-soB86Xyy-WGWxRHPdckCDVCWi33Kdc7ykGCEhx6WvbgTIQH_iEXshe6rfa0Soj99QXuEseQKewFFybW3HogO-R8l82-wInIHWNcQFy0sVTb-2JwTRjl4RlgVCp7SILmcNFQx4o7m1UpKDcmuqAyvbwO5q7FubdESrc_9SLp3OGv6taJC6tTdajkVPDHJaLUHsVQwv4hhh0LyAqmImJREdA6Th73WqwhJN9bJp_ovrSIabiDk1mlnrDWKiGthczV02aPI-3lRtmHOgAAAAHHZ9BxAA"
         },
         "MONGO_URL": {
@@ -24,7 +24,7 @@
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "8187361583"
+            "value": "1281282633"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
