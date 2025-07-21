@@ -1,15 +1,15 @@
 {
-    "name": "𝗔𝗟𝗣𝗛𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "name": "minialpha",
     "logo": "https://telegra.ph/file/1a1dae69a11e98c47c34e.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_USERBOT",
+    "repository": "https://github.com/rajs2695/MinMini-Alpha",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
             "description": "fill with the Pyrogram v2 session string",
             "required": true
-            "value": "BQHEb5wAdTujpFz8ZlEEOtmho5Fl2rI58BbimhjFXZdFfBGg3le1JX7vBy5H7afdoHWMUIhG_1A1b9gz-soB86Xyy-WGWxRHPdckCDVCWi33Kdc7ykGCEhx6WvbgTIQH_iEXshe6rfa0Soj99QXuEseQKewFFybW3HogO-R8l82-wInIHWNcQFy0sVTb-2JwTRjl4RlgVCp7SILmcNFQx4o7m1UpKDcmuqAyvbwO5q7FubdESrc_9SLp3OGv6taJC6tTdajkVPDHJaLUHsVQwv4hhh0LyAqmImJREdA6Th73WqwhJN9bJp_ovrSIabiDk1mlnrDWKiGthczV02aPI-3lRtmHOgAAAAHHZ9BxAA"
+            "value": ""
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
